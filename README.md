@@ -32,7 +32,7 @@
 
 ### Приметы текстов
 
-- Текст A [Первая версия](https://gist.github.com/rvvr/d560d7b0386ddd4556f85b305274b712) и [Вторая версия](https://gist.github.com/rvvr/c3fb95f7fba8f4f8e90ddc79dacb49ca)
-- Текст B [Первая версия](https://gist.github.com/rvvr/93bd1472468c96a39baeed864fd1c2e5) и [Вторая версия](https://gist.github.com/rvvr/a694e604e29fbd683326462dc646fb3b)
+- Текст A [Первая версия](https://github.com/topcontent/test-task-backend-developer/blob/main/files/Text_A1.txt) и [Вторая версия](https://github.com/topcontent/test-task-backend-developer/blob/main/files/Text_A2.txt)
+- Текст B [Первая версия](https://github.com/topcontent/test-task-backend-developer/blob/main/files/Text_B1.txt) и [Вторая версия](https://github.com/topcontent/test-task-backend-developer/blob/main/files/Text_B2.txt)
 
 Удачи!
